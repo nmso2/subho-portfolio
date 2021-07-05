@@ -46,7 +46,6 @@ section{
     background-image:url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    padding: 100px;
 }
 
 .experiences-div{
@@ -67,4 +66,7 @@ section{
 }
 footer p{
     text-align: center;
+}
+#section-heading{
+    margin-left: 30px;
 }
